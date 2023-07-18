@@ -1,5 +1,5 @@
 # DT-Freshers-Selection-2023-2-round
-#task-1 
+**task-1 **
 # Project: CEO Satisfaction - Individual Progress
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -11,7 +11,7 @@
 7. [Conclusion](#conclusion)
 ## Introduction
 
-This project aims to analyze the satisfaction of the CEO (Mr. Octopus) with the individual progress of the Student Unicorns in the company. The analysis is based on weekly scorecards provided by the CEO, where the Student Unicorns are evaluated on various parameters such as contribution, initiative, and bottleneck analysis.
+This project aims to analyze the satisfaction of the CEO (Mr Octopus) with the individual progress of the Student Unicorns in the company. The analysis is based on weekly scorecards provided by the CEO, where the Student Unicorns are evaluated on various parameters such as contribution, initiative, and bottleneck analysis.
 
 ## Objective
 
@@ -33,13 +33,13 @@ The data for this analysis is obtained from the weekly scorecards provided by th
 
 ## Results
 
-The analysis will provide insights into the CEO's satisfaction with the Student Unicorns' individual progress. We will gain a better understanding of how they are performing on different parameters and how their progress evolves over time.
+The analysis will provide insights into the CEO's satisfaction with the Student Unicorns' progress. We will gain a better understanding of how they are performing on different parameters and how their progress evolves.
 
 ## Visualization
 
-The project will use various data visualization techniques such as line charts and bar charts to present the analysis results in a clear and intuitive manner.
+The project will use various data visualization techniques such as line charts and bar charts to present the analysis results clearly and intuitively.
 
 ## Conclusion
 
-Based on the analysis, we will draw conclusions about the CEO's satisfaction with the individual progress of the Student Unicorns. We will also identify any patterns or improvements that can be made to support their growth.
+Based on the analysis, we will dconcludethe CEO's satisfaction with the individual progress of the Student Unicorns. We will also identify any patterns or improvements that can be made to support their growth.
 
