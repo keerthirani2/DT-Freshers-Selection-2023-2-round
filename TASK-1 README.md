@@ -38,8 +38,9 @@ The analysis will provide insights into the CEO's satisfaction with the Student 
 ## Visualization
 
 The project will use various data visualization techniques such as line charts and bar charts to present the analysis results clearly and intuitively.
+here is the link where you can see the Visualizations: https://public.tableau.com/views/Task1_16896690087060/IndividualPerformanceAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Conclusion
 
-Based on the analysis, we will dconcludethe CEO's satisfaction with the individual progress of the Student Unicorns. We will also identify any patterns or improvements that can be made to support their growth.
+Based on the analysis, we will conclude the CEO's satisfaction with the individual progress of the Student Unicorns. We will also identify any patterns or improvements that can be made to support their growth.
 
